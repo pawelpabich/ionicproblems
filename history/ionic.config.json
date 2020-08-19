@@ -1,0 +1,7 @@
+{
+  "name": "redirect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
